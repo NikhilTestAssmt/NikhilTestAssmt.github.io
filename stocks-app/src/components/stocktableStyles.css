@@ -1,0 +1,24 @@
+.row2{
+    width: 100%;
+    height: auto;
+    padding: 10px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.t-r-1{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: serif;
+}
+
+.t-r-2{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: serif;
+}
+
+#t-d-1{
+    padding: 15px;
+}
